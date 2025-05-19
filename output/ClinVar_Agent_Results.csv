@@ -1,0 +1,16 @@
+VariationID,Type,Name,GeneSymbol,RCVaccession,ReviewStatus,ProteinChange,ClinicalSignificance,Condition,Gene
+VCV003823225,single nucleotide variant,NM_005504.7(BCAT1):c.41G>A (p.Gly14Glu),c.41G>A,VCV003823225,"criteria provided, single submitter","G38E, G13E, G14E, G26E, G29E",Uncertain significance,not specified,BCAT1
+VCV003823217,single nucleotide variant,NM_005504.7(BCAT1):c.1087A>G (p.Ser363Gly),c.1087A>G,VCV003823217,"criteria provided, single submitter","S285G, S316G, S322G, S361G, S374G, S375G, S384G, S326G, S371G, S378G, S387G, S286G, S338G, S339G, S362G, S279G, S298G, S302G, S307G, S315G, S328G, S349G, S363G",Uncertain significance,not specified,BCAT1
+VCV003823206,single nucleotide variant,NM_005504.7(BCAT1):c.7-1082G>T,c.7-1082G>T,VCV003823206,"criteria provided, single submitter",A8S,Uncertain significance,not specified,BCAT1
+VCV003839964,single nucleotide variant,NM_001042517.2(DIAPH3):c.3544G>A (p.Glu1182Lys),c.3544G>A,VCV003839964,"criteria provided, single submitter","E1136K, E1171K, E1112K, E1182K",Uncertain significance,not specified,DIAPH3
+VCV003839963,single nucleotide variant,NM_001042517.2(DIAPH3):c.1095T>G (p.Phe365Leu),c.1095T>G,VCV003839963,"criteria provided, single submitter","F102L, F354L, F295L, F365L, F319L",Uncertain significance,not specified,DIAPH3
+VCV003839962,single nucleotide variant,NM_001042517.2(DIAPH3):c.1629G>T (p.Glu543Asp),c.1629G>T,VCV003839962,"criteria provided, single submitter","E280D, E532D, E543D, E473D, E497D",Uncertain significance,not specified,DIAPH3
+VCV003869409,single nucleotide variant,NM_182762.4(MACC1):c.727G>A (p.Val243Met),c.727G>A,VCV003869409,"criteria provided, single submitter",V243M,Uncertain significance,not specified,MACC1
+VCV003869408,single nucleotide variant,NM_182762.4(MACC1):c.1652G>A (p.Ser551Asn),c.1652G>A,VCV003869408,"criteria provided, single submitter",S551N,Uncertain significance,not specified,MACC1
+VCV003869407,single nucleotide variant,NM_182762.4(MACC1):c.1744G>C (p.Gly582Arg),c.1744G>C,VCV003869407,"criteria provided, single submitter",G582R,Uncertain significance,not specified,MACC1
+VCV003823845,single nucleotide variant,NM_138621.5(BCL2L11):c.461G>A (p.Arg154His),c.461G>A,VCV003823845,"criteria provided, single submitter","R94H, R154H, R64H",Uncertain significance,not specified,BCL2L11
+VCV003823834,single nucleotide variant,NM_138621.5(BCL2L11):c.82C>G (p.Leu28Val),c.82C>G,VCV003823834,"criteria provided, single submitter",L28V,Uncertain significance,not specified,BCL2L11
+VCV003480130,single nucleotide variant,NM_138621.5(BCL2L11):c.438A>G (p.Ile146Met),c.438A>G,VCV003480130,"criteria provided, single submitter","I56M, I146M, I86M",Uncertain significance,not specified,BCL2L11
+VCV003864834,single nucleotide variant,NM_144711.6(KLHL23):c.1498G>A (p.Glu500Lys),c.1498G>A,VCV003864834,"criteria provided, single submitter",E500K,Uncertain significance,not specified,KLHL23
+VCV003864833,single nucleotide variant,NM_144711.6(KLHL23):c.1100T>G (p.Leu367Trp),c.1100T>G,VCV003864833,"criteria provided, single submitter",L367W,Uncertain significance,not specified,KLHL23
+VCV003864832,single nucleotide variant,NM_144711.6(KLHL23):c.674A>G (p.Tyr225Cys),c.674A>G,VCV003864832,"criteria provided, single submitter",Y225C,Uncertain significance,not specified,KLHL23
